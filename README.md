@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chackilldev" alt="chackilldev" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Svelte,**
+- 🌱 I’m currently learning **Javascript, Svelte, Astro**
 
 - 👯 I’m looking to collaborate on [DesafioLatam](https://desafiolatam.com/)
 
-- 🤝 I’m looking for help with [Javascript, Sveltekit](https://kit.svelte.dev/)
+- 🤝 I’m looking for help with [Javascript, Svelte, Astro]
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChackillDev](https://github.com/ChackillDev)
 
